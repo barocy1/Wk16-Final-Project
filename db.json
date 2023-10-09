@@ -1,0 +1,40 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Yolanda",
+      "email": "Yolanda332@GMAIL.COM",
+      "phone": "602-602-3388",
+      "validation": false
+    },
+    {
+      "id": 2,
+      "name": "Joshua",
+      "email": "Josh3332@GMAIL.COM",
+      "phone": "602-602-5522",
+      "validation": false
+    },
+    {
+      "id": 3,
+      "name": "Matthew",
+      "email": "Matt332@GMAIL.COM",
+      "phone": "602-602-2222",
+      "validation": false
+    },
+    {
+      "id": 4,
+      "name": "Jacob",
+      "email": "Jake333@GMAIL.COM",
+      "phone": "602-602-1717",
+      "validation": false
+    },
+    {
+      "name": "James Garcia",
+      "email": "garcia@gmail.com",
+      "phone": "602-777-3333",
+      "active": true,
+      "validation": true,
+      "id": 5
+    }
+  ]
+}
